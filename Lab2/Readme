@@ -1,0 +1,55 @@
+# 🏠 California Housing Dataset – Lab 2
+
+## 📌 Overview
+
+The **California Housing Dataset** contains socio-economic and geographic information related to housing in California.
+Each row in the dataset represents a **block group**, which is the smallest geographical unit for which census data is published.
+
+* **Total Observations:** 20,640
+* **Total Features:** 10
+* **Source:** Kaggle
+
+This dataset is commonly used for **data analysis and machine learning tasks**, such as predicting housing prices.
+
+---
+
+## 📊 Dataset Description
+
+| No. | Feature Name       | Description                                   |
+| --- | ------------------ | --------------------------------------------- |
+| 1   | Longitude          | Longitude of the center of each block group   |
+| 2   | Latitude           | Latitude of the center of each block group    |
+| 3   | Housing Median Age | Median age of houses in the block group       |
+| 4   | Total Rooms        | Total number of rooms in the block group      |
+| 5   | Total Bedrooms     | Total number of bedrooms in the block group   |
+| 6   | Population         | Total population of the block group           |
+| 7   | Households         | Total number of households in the block group |
+| 8   | Median Income      | Median income of households                   |
+| 9   | Median House Value | Median house value for the block group        |
+| 10  | Ocean Proximity    | Proximity of the block group to the ocean     |
+
+---
+
+## 🎯 Objective
+
+* To understand the structure of a real-world dataset
+* To load and analyze data using **Python and Jupyter Notebook**
+* To practice **Kaggle dataset usage** and **GitHub local repository management**
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* Python
+* Jupyter Notebook
+* Pandas
+* Kaggle
+* GitHub
+
+---
+
+## 📁 Files Included
+
+* `housing.csv` – California housing dataset
+* `lab2.ipynb` – Jupyter notebook for data loading and analysis
+* `README.md` – Dataset description and project details
